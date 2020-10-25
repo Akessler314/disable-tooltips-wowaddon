@@ -1,0 +1,7 @@
+## Interface: 90001
+## Title: Disable TT
+## Notes: Addon disables tooltips when users enters the slash command /dtt and reenables tooltips when a user types the slash command /ett 
+## Author: Andrew Kessler
+## Version: 0.0.1
+
+disablett.lua
